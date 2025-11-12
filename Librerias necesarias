@@ -1,0 +1,29 @@
+=================================================
+  LIBRERÍAS NECESARIAS (MatrixScholar)
+=================================================
+
+Para que esta calculadora funcione, necesitas instalar las siguientes librerías externas de Python.
+
+Las librerías estándar (como tkinter, math, re, etc.) ya vienen incluidas con Python.
+
+-------------------------------------------------
+  COMANDOS DE INSTALACIÓN
+-------------------------------------------------
+Abre tu terminal o símbolo del sistema (cmd) y ejecuta los siguientes comandos uno por uno:
+
+1.  Para cálculos numéricos y manejo de vectores:
+    pip install numpy
+
+2.  Para la interfaz gráfica moderna:
+    pip install customtkinter
+
+3.  Para mostrar las gráficas en la interfaz:
+    pip install matplotlib
+
+
+-------------------------------------------------
+  COMANDO "TODO EN UNO" (Alternativo)
+-------------------------------------------------
+También puedes instalar todas las librerías con un solo comando:
+
+pip install numpy customtkinter matplotlib
